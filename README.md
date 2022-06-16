@@ -1,2 +1,2 @@
 # kickstarter-analysis
-Analysis for the Kickerstarter campaign
+Analysis for the Kickerstarter Campaign
