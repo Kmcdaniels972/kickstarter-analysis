@@ -29,12 +29,12 @@ confirming all needed data was presented on the graphs.
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-I do advide to reassess the amount needed for the campaign and if there is anyway that it could be scaled back to make the fundraiser goal more achieveable
+  I do advide to reassess the amount needed for the campaign and if there is anyway that it could be scaled back to make the fundraiser goal more achieveable
 - What can you conclude about the Outcomes based on Goals?
-I would advise to launch her fundraiser during May or June to ensure that she has a higher probability to reach her campaign goal.
+  I would advise to launch her fundraiser during May or June to ensure that she has a higher probability to reach her campaign goal.
 - What are some limitations of this dataset?
-The limitations of the dataset do not provide what incentive the campaigns used to make backers more likely to pledge and there is little to no knowledge of how the other data points (blurb, staff pick, spotlight) could have affected the outcome of the campagins.
+  The limitations of the dataset do not provide what incentive the campaigns used to make backers more likely to pledge and there is little to no knowledge of how the other data points (blurb, staff pick, spotlight) could have affected the outcome of the campagins.
 - What are some other possible tables and/or graphs that we could create?
-The failed and successful Kickstarter campagins of Great Britian
+  The failed and successful Kickstarter campagins of Great Britian
 Outcomes based on Goals graph mapping out the failed campagins to see the distribution or trend
 Use a graph dipicting the Outcomes based on the durations of the campaigns
